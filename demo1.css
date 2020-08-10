@@ -1,0 +1,25 @@
+body
+{
+    background-color: #000000;
+    background-image: url("2.jpg");
+}
+h1
+{
+    color:green;
+    text-align: center;
+    word-spacing: 10px;
+    font-family: "Verdana";
+    text-shadow: 2px 2px #73ff00;
+}
+div
+{
+    border-left: #ffffff solid 6px;
+    border-right: #ffffff solid 6px;
+    border-top: #73ff00 double 3px;
+    border-bottom: #73ff00 double 3px;
+    padding: 0px;
+}
+p
+{
+    color: #73ff00;
+}
